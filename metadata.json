@@ -1,0 +1,5 @@
+{
+  "name": "React Auth Portal",
+  "description": "A two-tab web application for user login and registration, leading to a welcome page after successful authentication. The app demonstrates form handling, state management, and interaction with browser local storage for a frontend-only user persistence.",
+  "requestFramePermissions": []
+}
